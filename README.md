@@ -55,7 +55,6 @@ It includes **visual insights**, **feature analysis**, and an optional **interac
 ![Class Survival](notebooks/images/survival_rate_by_class.png)
 ![Class & Sex Survival %](notebooks/images/survival_pct_class_sex.png)
 ![Fare vs Survival](notebooks/images/fare_by_survival.png)
-![Age Distribution](notebooks/images/age_distnbution.png)
 ![Survival by Age Group](notebooks/images/survival_by_agegroup.png)
 ![Age & Sex Violin](notebooks/images/age_sex_survival_violin.png)
 ![Correlation Heatmap](notebooks/images/corr_heatmap.png)
