@@ -50,36 +50,16 @@ It includes **visual insights**, **feature analysis**, and an optional **interac
 
 ---
 ## 🔍 Analysis & Visual Insights
-
-### Overall Survival
-![Survival Count](images/survival_count.png)
-
-### Survival by Gender
-![Gender Survival](images/survival_by_gender.png)
-
-### Survival by Passenger Class
-![Class Survival](images/survival_rate_by_class.png)
-
-### Survival Percentage by Class & Sex
-![Class & Sex Survival %](images/survival_pct_class_sex.png)
-
-### Fare Distribution by Survival
-![Fare vs Survival](images/fare_by_survival.png)
-
-### Age Distribution
-![Age Distribution](images/age_distnbution.png)
-
-### Survival by Age Group
-![Survival by Age Group](images/survival_by_agegroup.png)
-
-### Age & Sex Survival (Violin Plot)
-![Age & Sex Violin](images/age_sex_survival_violin.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](images/corr_heatmap.png)
-
-### Survival by Family Size
-![Family Size vs Survival](images/survival_by_family_size.png)
+![Survival Count](notebooks/images/survival_count.png)
+![Survival by Gender](notebooks/images/survival_by_gender.png)
+![Class Survival](notebooks/images/survival_rate_by_class.png)
+![Class & Sex Survival %](notebooks/images/survival_pct_class_sex.png)
+![Fare vs Survival](notebooks/images/fare_by_survival.png)
+![Age Distribution](notebooks/images/age_distnbution.png)
+![Survival by Age Group](notebooks/images/survival_by_agegroup.png)
+![Age & Sex Violin](notebooks/images/age_sex_survival_violin.png)
+![Correlation Heatmap](notebooks/images/corr_heatmap.png)
+![Family Size vs Survival](notebooks/images/survival_by_family_size.png)
 
 ---
 
