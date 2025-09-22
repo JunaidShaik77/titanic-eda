@@ -60,3 +60,15 @@ Run locally:
 ```bash
 pip install streamlit
 streamlit run app.py
+
+
+## Visual Insights
+
+### Overall Survival
+![Survival Count](images/survival_count.png)
+
+### Survival by Gender
+![Gender Survival](images/gender_survival.png)
+
+### Survival by Class
+![Class Survival](images/class_survival.png)
